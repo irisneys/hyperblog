@@ -13,13 +13,13 @@ body
 #cabecera 
 
 {
-    background: #010b97;
-    box-shadow: 0px 5px 20px 0px rgba(0, 0, 0, 0.75);
-    color: rgb(249, 250, 250);
+    background: #c07474;
+    box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.75);
+    color: rgb(29, 21, 21);
     font-size: 50px;
     font-weight: bold;
     margin: 0;
-    padding: 0.5em;
+    padding: 0.4em;
 }
 
 #cabecera #tagline
@@ -51,4 +51,13 @@ body
 #post 
 {
     padding: 1em;
+}
+
+#footer
+
+{
+background: rgb(213, 155, 123);
+color: rgb(55, 44, 44);
+text-align: center;
+padding: 0.4em;
 }
